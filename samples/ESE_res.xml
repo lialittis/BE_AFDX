@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<delays>
+		<flow name="AFDX Flow 1">
+			<target name="AFDX Station 6" value="178.01" />
+		</flow>
+		<edge name="AFDX Edge 3">
+			<usage type="direct" value="8536.0" percent="8.54%" />
+			<usage type="reverse" value="0.0" percent="0.00%" />
+		</edge>
+		<edge name="AFDX Edge 4">
+			<usage type="direct" value="8536.0" percent="8.54%" />
+			<usage type="reverse" value="0.0" percent="0.00%" />
+		</edge>
+	</delays>
+</results>
